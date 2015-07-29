@@ -1,0 +1,37 @@
+{
+  "name": "42-cent-paypal",
+  "version": "1.0.0",
+  "description": "42 cent adaptor for paypal",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/continuous-software/42-cent-paypal.git"
+  },
+  "dependencies": {
+    "42-cent-base": "^1.0.0",
+    "42-cent-util": "^1.0.0",
+    "bluebird": "^2.9.34",
+    "credit-card-type": "^4.0.0",
+    "paypal-rest-sdk": "^1.6.0"
+  },
+  "devDependencies": {
+    "42-cent-model": "^2.0.2",
+    "casual": "^1.4.7",
+    "mocha": "^2.2.5",
+    "object-assign": "^3.0.0"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test node ./node_modules/mocha/bin/_mocha -R spec -t 15000 test"
+  },
+  "keywords": [
+    "payment",
+    "gateway",
+    "42-cent",
+    "paypal"
+  ],
+  "author": "Laurent RENARD",
+  "license": "MIT"
+}
