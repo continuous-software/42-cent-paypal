@@ -202,7 +202,7 @@ describe('gateway adaptor', function () {
           throw new Error('should not get here');
         })
         .catch(function (err) {
-          assert.equal(err.message, 'Response Status : 500');
+          assert.equal(err.message, 'Response Status : 404');
           done();
         })
     });
