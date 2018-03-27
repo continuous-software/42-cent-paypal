@@ -24,7 +24,7 @@
     "mocha": "^2.2.5"
   },
   "scripts": {
-    "test": "NODE_ENV=test node ./node_modules/mocha/bin/_mocha -R spec -t 15000 test"
+    "test": "NODE_ENV=test node ./node_modules/mocha/bin/_mocha -R spec -t 30000 test"
   },
   "keywords": [
     "payment",
