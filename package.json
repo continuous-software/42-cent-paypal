@@ -13,15 +13,15 @@
   "dependencies": {
     "42-cent-base": "^1.0.0",
     "42-cent-util": "^1.0.0",
-    "bluebird": "^2.9.34",
-    "credit-card-type": "^4.0.0",
+    "bluebird": "^3.5.1",
+    "credit-card-type": "^6.3.0",
     "paypal-rest-sdk": "^1.6.0",
-    "object-assign": "^3.0.0"
+    "object-assign": "^4.1.1"
   },
   "devDependencies": {
     "42-cent-model": "^2.0.2",
     "casual": "^1.4.7",
-    "mocha": "^2.2.5"
+    "mocha": "^5.1.1"
   },
   "scripts": {
     "test": "NODE_ENV=test node ./node_modules/mocha/bin/_mocha -R spec -t 30000 test"
