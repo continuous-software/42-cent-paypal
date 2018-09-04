@@ -14,7 +14,7 @@
     "42-cent-base": "^1.0.0",
     "42-cent-util": "^1.0.0",
     "bluebird": "^3.5.1",
-    "credit-card-type": "^6.3.0",
+    "credit-card-type": "^7.1.0",
     "paypal-rest-sdk": "^1.6.0",
     "object-assign": "^4.1.1"
   },
