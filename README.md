@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/continuous-software/42-cent-paypal.svg?branch=master)](https://travis-ci.org/continuous-software/42-cent-paypal) [![Greenkeeper badge](https://badges.greenkeeper.io/continuous-software/42-cent-paypal.svg)](https://greenkeeper.io/) [![GuardRails badge](https://badges.production.guardrails.io/continuous-software/42-cent-paypal.svg)](https://www.guardrails.io)
+[![Build Status](https://travis-ci.org/continuous-software/42-cent-paypal.svg?branch=master)](https://travis-ci.org/continuous-software/42-cent-paypal) [![Greenkeeper badge](https://badges.greenkeeper.io/continuous-software/42-cent-paypal.svg)](https://greenkeeper.io/)
 
 ![42-cent-paypal](https://cloud.githubusercontent.com/assets/412895/20221394/b7fa6260-a863-11e6-9fa5-7330b3e16c13.png)
 
